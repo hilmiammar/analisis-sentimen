@@ -28,7 +28,7 @@ Digunakan sebagai acuan untuk identifikasi teks yang memiliki makna dominan nega
 **Sumber Referensi:**
 - [InSet - Indonesian Sentiment Lexicon](https://github.com/fajri91/InSet)  
 - Fajri Koto & Gemala Y. Rahmaningtyas, *InSet: Lexicon Evaluation of a Word List for Indonesian Sentiment Analysis in Microblogs*  
-  [[ResearchGate Link]](https://www.researchgate.net/publication/321757985_InSet_Lexicon_Evaluation_of_a_Word_List_for_Indonesian_Sentiment_Analysis_in_Microblogs)  
+  [[ResearchGate Link]](https://ieeexplore.ieee.org/document/8300625/)  
 
 ---
 
